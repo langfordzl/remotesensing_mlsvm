@@ -75,5 +75,5 @@ make
 
 ## Prepare Data!
 
-Read more [here](data_prep/README.md)
+Read more [here](data_prep/)
 
