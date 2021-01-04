@@ -73,3 +73,7 @@ make
 ./mlsvm_classifier
 ```
 
+## Prepare Data!
+
+Read more [here](data_prep/README.md)
+
